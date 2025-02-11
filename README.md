@@ -26,4 +26,4 @@ How to use the project:
 6. By using the slider, adjust the temperature of the model, a decimal number between 0.1 and 1.0
 7. Enter the topic in the text input box
 8. Once you have written the topic, press Enter.
-NOTE: After the firs use the expanders will show the previously generated titles and scripts.
+NOTE: After the first use the expanders will show the previously generated titles and scripts.
